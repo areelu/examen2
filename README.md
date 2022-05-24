@@ -22,7 +22,7 @@ Realizar una función, una llamada 'fractal', la cual realizará primero  el cua
 ## Instrucciones de ejecución
 
 ```text
-git clone https://github.com/areelu/examen2
+git clone https://github.com/areelu/examen2.git
 ```
 
 
