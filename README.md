@@ -4,7 +4,7 @@
 
 ### Universidad Nacional Autonoma de México (UNAM)
 ### Escuela Nacional de Estudios Superiores, Unidad Morelia
-#### Tecnologías para la información en Ciencias
+### Tecnologías para la información en Ciencias
 
 Arely Hilda Luis Tiburcio ([areelu](https://github.com/areelu))
 
@@ -33,3 +33,4 @@ git clone https://github.com/areelu/examen2.git
 De la Luz, V. (2022). Sistemas Dinámicos . UNAM, Morelia
 
 # Resultados
+<img src='https://raw.githubusercontent.com/areelu/examen2/main/fractal.png'>
